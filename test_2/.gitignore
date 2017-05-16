@@ -11,3 +11,9 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Configs
+/config/database.yml
+
+# DB
+/db/seeds.rb 
